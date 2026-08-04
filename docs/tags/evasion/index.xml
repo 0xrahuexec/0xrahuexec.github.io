@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evasion on 0xRahu</title>
+    <link>http://localhost:1313/tags/evasion/</link>
+    <description>Recent content in Evasion on 0xRahu</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 10 Apr 2026 13:30:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/evasion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pira7e&#39;s Guide to Locally Signed Certificates</title>
+      <link>http://localhost:1313/posts/locally-signed-certificate/</link>
+      <pubDate>Fri, 10 Apr 2026 13:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/locally-signed-certificate/</guid>
+      <description>&lt;h3 id=&#34;generate-the-key&#34;&gt;Generate the KEY&lt;a href=&#34;#generate-the-key&#34; class=&#34;heading-anchor&#34; aria-label=&#34;Link to this section&#34;&gt;&lt;svg class=&#34;h-4 w-4&#34; aria-hidden=&#34;true&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;g fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;2&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34;/&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;We can use this in windows 10/11 powershell to generate a self-signed certificate for code signing purposes. This certificate can be used to sign your backdoor or any executable, which can help in evading antivirus detection.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stealth Transfers: Bypassing Endpoint Security Using cURL</title>
+      <link>http://localhost:1313/posts/stealth-transfers-bypassing-endpoint-security-using-curl/</link>
+      <pubDate>Fri, 10 Apr 2026 13:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/stealth-transfers-bypassing-endpoint-security-using-curl/</guid>
+      <description>&lt;h3 id=&#34;create-c-shell-backdoor&#34;&gt;Create C Shell Backdoor&lt;a href=&#34;#create-c-shell-backdoor&#34; class=&#34;heading-anchor&#34; aria-label=&#34;Link to this section&#34;&gt;&lt;svg class=&#34;h-4 w-4&#34; aria-hidden=&#34;true&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;g fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;2&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34;/&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;First, we need to create a shell backdoor using msfvenom. We will create a reverse TCP shell that will connect back to our attacker machine. We can use the following command to create the payload:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Process Injection - AV Evasion</title>
+      <link>http://localhost:1313/posts/process-injection-av-evasion/</link>
+      <pubDate>Wed, 01 Apr 2026 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/process-injection-av-evasion/</guid>
+      <description>&lt;p&gt;In the previous posts, we have explored various techniques for process injection, such as using &lt;code&gt;VirtualAllocEx&lt;/code&gt; and &lt;code&gt;CreateRemoteThread&lt;/code&gt;. However, these methods often require write and execute permissions on the target process, which can trigger antivirus (AV) detection. In this article, we will create shellcode using the Process Injection technique combined with XOR encryption to obfuscate the code and evade antivirus detection. By encrypting our shellcode, we can make it less recognizable to AV software, which often relies on signature-based detection methods.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

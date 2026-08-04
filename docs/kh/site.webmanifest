@@ -1,0 +1,25 @@
+{
+  "background_color": "#ffffff",
+  "categories": [
+    "blog",
+    "technology",
+    "education"
+  ],
+  "description": "a cybersecurity blog focused on offensive security, penetration testing, osint, and red teaming.",
+  "dir": "ltr",
+  "display": "standalone",
+  "icons": [
+    {
+      "sizes": "any",
+      "src": "/favicon.svg",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "en",
+  "name": "0xRahu",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "short_name": "0xRahu",
+  "start_url": "/",
+  "theme_color": "#09090b"
+}

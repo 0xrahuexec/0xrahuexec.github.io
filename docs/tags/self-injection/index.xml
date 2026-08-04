@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Self-Injection on 0xRahu</title>
+    <link>http://localhost:1313/tags/self-injection/</link>
+    <description>Recent content in Self-Injection on 0xRahu</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 31 Mar 2026 13:30:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/self-injection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Process Injection - Self Injection Method</title>
+      <link>http://localhost:1313/posts/process-injection-self-injection-method/</link>
+      <pubDate>Tue, 31 Mar 2026 13:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/process-injection-self-injection-method/</guid>
+      <description>&lt;p&gt;Self Injection is a technique that allows an attacker to inject shellcode into a process and execute it. This method is often used in malware development and can be used to bypass security measures. The basic idea is to create a new thread in the target process and execute the shellcode in that thread.&lt;/p&gt;&#xA;&lt;p&gt;Below is an example of how to create a payload using Shellcode in C language targeting a 64-bit machine.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
