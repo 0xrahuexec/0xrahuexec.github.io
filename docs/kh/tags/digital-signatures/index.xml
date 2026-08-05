@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Digital-Signatures on 0xRahu</title>
-    <link>http://localhost:1313/kh/tags/digital-signatures/</link>
+    <link>https://0xrahuexec.github.io/kh/tags/digital-signatures/</link>
     <description>Recent content in Digital-Signatures on 0xRahu</description>
     <generator>Hugo</generator>
     <language>kh-KH</language>
     <lastBuildDate>Fri, 13 Mar 2026 13:30:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/kh/tags/digital-signatures/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://0xrahuexec.github.io/kh/tags/digital-signatures/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hijacking Digital Signatures</title>
-      <link>http://localhost:1313/kh/posts/hijacking-digital-signatures/</link>
+      <link>https://0xrahuexec.github.io/kh/posts/hijacking-digital-signatures/</link>
       <pubDate>Fri, 13 Mar 2026 13:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/kh/posts/hijacking-digital-signatures/</guid>
+      <guid>https://0xrahuexec.github.io/kh/posts/hijacking-digital-signatures/</guid>
       <description>&lt;p&gt;មានវិធីសាស្ត្រជាច្រើនក្នុងការលួចយក ឬ ចម្លងយក Digital Signatures ចេញពីឯកសារពិតប្រាកដណាមួយនៅក្នុងប្រព័ន្ធវីនដូ ។ តែថ្ងៃនេះយើងនឹងមកមើលឧបករណ៍មួយដែលអាចជួយឲ្យមានភាពងាយស្រួលក្នុងការលួចយក Signatures ដែលមាននៅក្នុងឯកសារ Binary រួចដាក់បញ្ជូលទៅក្នុង Payload បានយ៉ាងឆាប់រហ័ស ។&lt;/p&gt;&#xA;&lt;h4 id=&#34;digital-signatures-hijacking-tools&#34;&gt;Digital Signatures Hijacking Tools&lt;a href=&#34;#digital-signatures-hijacking-tools&#34; class=&#34;heading-anchor&#34; aria-label=&#34;Link to this section&#34;&gt;&lt;svg class=&#34;h-4 w-4&#34; aria-hidden=&#34;true&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;g fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;2&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34;/&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;&lt;b&gt;&lt;a&#xA;    href=&#34;https://github.com/secretsquirrel/SigThief.git&#34;target=&#34;_blank&#34;&#xA;    class=&#34;inline-flex items-center gap-1&#34;&#xA;  &gt;SigThif&lt;svg class=&#34;h-3 w-3 flex-shrink-0&#34; id=&#34;external-link&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;2&#34; d=&#34;M15 3h6v6m-11 5L21 3m-3 10v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6&#34;/&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&lt;/b&gt; ងាយៗជាមួយ SigThif ក្នុងការលួចយក Signatures ពីកម្មវិធីជាច្រើននៅក្នងវីនដូ ។&lt;/p&gt;</description>
     </item>
   </channel>

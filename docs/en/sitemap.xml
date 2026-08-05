@@ -2,286 +2,286 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/backdoor/</loc>
+    <loc>https://0xrahuexec.github.io/tags/backdoor/</loc>
     <lastmod>2026-07-06T17:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-07-06T17:30:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="kh-KH"
-                href="http://localhost:1313/kh/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/ngrok/</loc>
-    <lastmod>2026-07-06T17:30:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://0xrahuexec.github.io/categories/</loc>
     <lastmod>2026-07-06T17:30:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kh-KH"
-                href="http://localhost:1313/kh/posts/"
+                href="https://0xrahuexec.github.io/kh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/"
+                href="https://0xrahuexec.github.io/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/reverse-shell/</loc>
+    <loc>https://0xrahuexec.github.io/tags/ngrok/</loc>
     <lastmod>2026-07-06T17:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://0xrahuexec.github.io/posts/</loc>
     <lastmod>2026-07-06T17:30:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kh-KH"
-                href="http://localhost:1313/kh/tags/"
+                href="https://0xrahuexec.github.io/kh/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://0xrahuexec.github.io/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/websec/</loc>
+    <loc>https://0xrahuexec.github.io/tags/reverse-shell/</loc>
     <lastmod>2026-07-06T17:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/xss/</loc>
+    <loc>https://0xrahuexec.github.io/tags/</loc>
+    <lastmod>2026-07-06T17:30:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="kh-KH"
+                href="https://0xrahuexec.github.io/kh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://0xrahuexec.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://0xrahuexec.github.io/categories/websec/</loc>
     <lastmod>2026-07-06T17:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/xss-reverse-shell-with-ngrok/</loc>
+    <loc>https://0xrahuexec.github.io/tags/xss/</loc>
     <lastmod>2026-07-06T17:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/malware-development/</loc>
+    <loc>https://0xrahuexec.github.io/posts/xss-reverse-shell-with-ngrok/</loc>
+    <lastmod>2026-07-06T17:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://0xrahuexec.github.io/categories/malware-development/</loc>
     <lastmod>2026-07-06T13:30:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kh-KH"
-                href="http://localhost:1313/kh/categories/malware-development/"
+                href="https://0xrahuexec.github.io/kh/categories/malware-development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/malware-development/"
+                href="https://0xrahuexec.github.io/categories/malware-development/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/payload/</loc>
+    <loc>https://0xrahuexec.github.io/tags/payload/</loc>
     <lastmod>2026-07-06T13:30:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kh-KH"
-                href="http://localhost:1313/kh/tags/payload/"
+                href="https://0xrahuexec.github.io/kh/tags/payload/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/payload/"
+                href="https://0xrahuexec.github.io/tags/payload/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/powershell/</loc>
+    <loc>https://0xrahuexec.github.io/tags/powershell/</loc>
     <lastmod>2026-07-06T13:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/various-way-to-deliverable-malware/</loc>
+    <loc>https://0xrahuexec.github.io/posts/various-way-to-deliverable-malware/</loc>
     <lastmod>2026-07-06T13:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/gdorking/</loc>
+    <loc>https://0xrahuexec.github.io/tags/gdorking/</loc>
     <lastmod>2026-04-14T13:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/shell-upload-via-phpmyadmin/</loc>
+    <loc>https://0xrahuexec.github.io/posts/shell-upload-via-phpmyadmin/</loc>
     <lastmod>2026-04-14T13:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sqlinjection/</loc>
+    <loc>https://0xrahuexec.github.io/tags/sqlinjection/</loc>
     <lastmod>2026-04-14T13:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/webshell/</loc>
+    <loc>https://0xrahuexec.github.io/tags/webshell/</loc>
     <lastmod>2026-04-14T13:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/evasion/</loc>
+    <loc>https://0xrahuexec.github.io/tags/evasion/</loc>
     <lastmod>2026-04-10T13:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/locally-signed-certificate/</loc>
+    <loc>https://0xrahuexec.github.io/posts/locally-signed-certificate/</loc>
     <lastmod>2026-04-10T13:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/shellcode/</loc>
+    <loc>https://0xrahuexec.github.io/tags/shellcode/</loc>
     <lastmod>2026-04-10T13:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/stealth-transfers-bypassing-endpoint-security-using-curl/</loc>
+    <loc>https://0xrahuexec.github.io/posts/stealth-transfers-bypassing-endpoint-security-using-curl/</loc>
     <lastmod>2026-04-10T13:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cprogramming/</loc>
+    <loc>https://0xrahuexec.github.io/tags/cprogramming/</loc>
     <lastmod>2026-04-01T14:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/process-injection/</loc>
+    <loc>https://0xrahuexec.github.io/series/process-injection/</loc>
     <lastmod>2026-04-01T14:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/process-injection-av-evasion/</loc>
+    <loc>https://0xrahuexec.github.io/posts/process-injection-av-evasion/</loc>
     <lastmod>2026-04-01T14:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://0xrahuexec.github.io/series/</loc>
     <lastmod>2026-04-01T14:30:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kh-KH"
-                href="http://localhost:1313/kh/series/"
+                href="https://0xrahuexec.github.io/kh/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/series/"
+                href="https://0xrahuexec.github.io/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/process-injection-without-wx-permission/</loc>
+    <loc>https://0xrahuexec.github.io/posts/process-injection-without-wx-permission/</loc>
     <lastmod>2026-04-01T13:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/dfir/</loc>
+    <loc>https://0xrahuexec.github.io/tags/dfir/</loc>
     <lastmod>2026-03-31T14:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/dfir101/</loc>
-    <lastmod>2026-03-31T14:30:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="kh-KH"
-                href="http://localhost:1313/kh/projects/dfir101/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/projects/dfir101/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/categories/projects/</loc>
+    <loc>https://0xrahuexec.github.io/projects/dfir101/</loc>
     <lastmod>2026-03-31T14:30:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kh-KH"
-                href="http://localhost:1313/kh/categories/projects/"
+                href="https://0xrahuexec.github.io/kh/projects/dfir101/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/projects/"
+                href="https://0xrahuexec.github.io/projects/dfir101/"
                 />
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://0xrahuexec.github.io/categories/projects/</loc>
     <lastmod>2026-03-31T14:30:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kh-KH"
-                href="http://localhost:1313/kh/projects/"
+                href="https://0xrahuexec.github.io/kh/categories/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/projects/"
+                href="https://0xrahuexec.github.io/categories/projects/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/process-injection-self-injection-method/</loc>
+    <loc>https://0xrahuexec.github.io/projects/</loc>
+    <lastmod>2026-03-31T14:30:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="kh-KH"
+                href="https://0xrahuexec.github.io/kh/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://0xrahuexec.github.io/projects/"
+                />
+  </url><url>
+    <loc>https://0xrahuexec.github.io/posts/process-injection-self-injection-method/</loc>
     <lastmod>2026-03-31T13:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/self-injection/</loc>
+    <loc>https://0xrahuexec.github.io/tags/self-injection/</loc>
     <lastmod>2026-03-31T13:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/unish3ll/</loc>
+    <loc>https://0xrahuexec.github.io/posts/unish3ll/</loc>
     <lastmod>2026-03-13T13:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://0xrahuexec.github.io/about/</loc>
     <lastmod>2026-03-03T00:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kh-KH"
-                href="http://localhost:1313/kh/about/"
+                href="https://0xrahuexec.github.io/kh/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/about/"
+                href="https://0xrahuexec.github.io/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://0xrahuexec.github.io/</loc>
     <lastmod>2026-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kh-KH"
-                href="http://localhost:1313/kh/"
+                href="https://0xrahuexec.github.io/kh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://0xrahuexec.github.io/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/osint/</loc>
+    <loc>https://0xrahuexec.github.io/tags/osint/</loc>
     <lastmod>2024-01-15T10:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kh-KH"
-                href="http://localhost:1313/kh/tags/osint/"
+                href="https://0xrahuexec.github.io/kh/tags/osint/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/osint/"
+                href="https://0xrahuexec.github.io/tags/osint/"
                 />
   </url><url>
-    <loc>http://localhost:1313/projects/osint101/</loc>
+    <loc>https://0xrahuexec.github.io/projects/osint101/</loc>
     <lastmod>2024-01-15T10:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kh-KH"
-                href="http://localhost:1313/kh/projects/osint101/"
+                href="https://0xrahuexec.github.io/kh/projects/osint101/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/projects/osint101/"
+                href="https://0xrahuexec.github.io/projects/osint101/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/reconnaissance/</loc>
+    <loc>https://0xrahuexec.github.io/tags/reconnaissance/</loc>
     <lastmod>2024-01-15T10:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kh-KH"
-                href="http://localhost:1313/kh/tags/reconnaissance/"
+                href="https://0xrahuexec.github.io/kh/tags/reconnaissance/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/reconnaissance/"
+                href="https://0xrahuexec.github.io/tags/reconnaissance/"
                 />
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://0xrahuexec.github.io/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="kh-KH"
-                href="http://localhost:1313/kh/archives/"
+                href="https://0xrahuexec.github.io/kh/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/archives/"
+                href="https://0xrahuexec.github.io/archives/"
                 />
   </url><url>
-    <loc>http://localhost:1313/sectoolz/osinttoolz/</loc>
+    <loc>https://0xrahuexec.github.io/sectoolz/osinttoolz/</loc>
   </url><url>
-    <loc>http://localhost:1313/timeline/</loc>
+    <loc>https://0xrahuexec.github.io/timeline/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="kh-KH"
-                href="http://localhost:1313/kh/timeline/"
+                href="https://0xrahuexec.github.io/kh/timeline/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/timeline/"
+                href="https://0xrahuexec.github.io/timeline/"
                 />
   </url><url>
-    <loc>http://localhost:1313/sectoolz/</loc>
+    <loc>https://0xrahuexec.github.io/sectoolz/</loc>
   </url>
 </urlset>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reconnaissance on 0xRahu</title>
-    <link>http://localhost:1313/kh/tags/reconnaissance/</link>
+    <link>https://0xrahuexec.github.io/kh/tags/reconnaissance/</link>
     <description>Recent content in Reconnaissance on 0xRahu</description>
     <generator>Hugo</generator>
     <language>kh-KH</language>
     <lastBuildDate>Tue, 31 Mar 2026 10:00:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/kh/tags/reconnaissance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://0xrahuexec.github.io/kh/tags/reconnaissance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>គម្រោងអូសីន១០១</title>
-      <link>http://localhost:1313/kh/projects/osint101/</link>
+      <link>https://0xrahuexec.github.io/kh/projects/osint101/</link>
       <pubDate>Tue, 31 Mar 2026 10:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/kh/projects/osint101/</guid>
+      <guid>https://0xrahuexec.github.io/kh/projects/osint101/</guid>
       <description>អូសីន១០១ គឺជាវគ្គសិក្សាខ្លីដែលផ្តោតលើការប្រើប្រាស់កម្មវិធី និងវិធីសាស្ត្រអូសីនក្នុងការស្រាវជ្រាវ និងវិភាគព័ត៌មាន ។ វាគ្របដណ្តប់លើមូលដ្ឋាននៃអូសីន និងបង្ហាញពីវិធីសាស្ត្រដែលអាចប្រើប្រាស់បានក្នុងការស្រាវជ្រាវស្វែងរកព័ត៌មាន ។</description>
     </item>
   </channel>

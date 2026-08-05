@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reconnaissance on 0xRahu</title>
-    <link>http://localhost:1313/tags/reconnaissance/</link>
+    <link>https://0xrahuexec.github.io/tags/reconnaissance/</link>
     <description>Recent content in Reconnaissance on 0xRahu</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 15 Jan 2024 10:00:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/reconnaissance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://0xrahuexec.github.io/tags/reconnaissance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSINT 101 Project</title>
-      <link>http://localhost:1313/projects/osint101/</link>
+      <link>https://0xrahuexec.github.io/projects/osint101/</link>
       <pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/projects/osint101/</guid>
+      <guid>https://0xrahuexec.github.io/projects/osint101/</guid>
       <description>OSINT101 is a course that focuses on the use of tools and techniques for research and analysis of information. It covers the basics of OSINT and demonstrates various methods that can be used for research and information gathering.</description>
     </item>
   </channel>
