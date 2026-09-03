@@ -1706,7 +1706,7 @@ adb shell dumpsys package com.example.etc | grep -i activity</div>
 <div
   id="dock"
   class="pointer-events-none fixed bottom-4 left-1/2 z-9999 w-fit -translate-x-1/2 translate-y-24 opacity-0 transition-all duration-300 ease-out sm:right-0 sm:left-0 sm:mx-auto sm:translate-x-0"
-  data-dock-mode="scroll"
+  data-dock-mode="float"
   role="toolbar"
   aria-label="Quick actions toolbar"
 >
@@ -1773,46 +1773,57 @@ adb shell dumpsys package com.example.etc | grep -i activity</div>
 
 
 
+  <div
+    id="dock-float-trigger"
+    class="pointer-events-auto fixed right-0 bottom-0 left-0 z-9998 cursor-pointer"
+  >
+    <div
+      class="from-muted-foreground/20 absolute inset-0 h-8 bg-linear-to-t to-transparent transition-all duration-200 ease-out"
+    ></div>
+
+    
+    <div class="relative mx-auto flex h-8 w-12 items-center justify-center">
+      <span id="dock-float-icon">
+        <svg class="h-3 w-3" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6l-6 6z"/></svg>
+      </span>
+    </div>
+  </div>
+
 
       <aside
     id="toc-container"
-    class="toc-center"
-    data-position="center"
+    class="toc-side"
+    data-position="side"
   >
-      <div
-        id="toc-center"
-        class="pointer-events-none fixed top-28 right-0 left-0 z-40 mx-auto w-full max-w-4xl px-4 transition-all duration-300"
-      >
-        <div class="pointer-events-auto relative mx-auto w-fit">
-          <button
-            id="toc-center-toggle"
-            class="bg-card/80 border-border text-muted-foreground hover:text-primary hover:bg-primary/10 ring-offset-background focus-visible:ring-ring flex cursor-pointer items-center gap-2 rounded-full border px-4 py-1.5 text-sm shadow-sm backdrop-blur-sm transition-colors focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:outline-none"
-          >
-            <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-  <line x1="8" x2="21" y1="6" y2="6"/>
-  <line x1="8" x2="21" y1="12" y2="12"/>
-  <line x1="8" x2="21" y1="18" y2="18"/>
-  <line x1="3" x2="3.01" y1="6" y2="6"/>
-  <line x1="3" x2="3.01" y1="12" y2="12"/>
-  <line x1="3" x2="3.01" y1="18" y2="18"/>
-</svg>
+      <div id="toc-side" class="fixed top-24 right-0 z-40 flex flex-col items-end">
+        
+        <div
+          id="toc-side-indicator"
+          class="relative flex h-[calc(100vh-12rem)] max-h-[400px] w-6 cursor-ns-resize flex-col items-end gap-0.5 py-4"
+        ></div>
 
-            <span id="toc-center-title" class="max-w-[200px] truncate">Table of contents</span>
-            <svg class="h-3 w-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-</svg>
-          </button>
-
-          
-          <div
-            id="toc-center-dropdown"
-            class="bg-card border-border scrollbar-hide absolute top-full left-1/2 mt-2 hidden max-h-[60vh] w-[280px] origin-top -translate-x-1/2 scale-95 overflow-y-auto rounded-xl border p-4 opacity-0 shadow-lg transition-all"
-          >
-            <div
-              id="toc-center-content"
-              class="[&_a]:text-muted-foreground [&_a:hover]:bg-primary/10 [&_a:hover]:text-primary [&_a.active]:bg-primary/10 [&_a.active]:text-primary text-sm [&_a]:block [&_a]:truncate [&_a]:rounded-md [&_a]:px-2 [&_a]:py-1 [&_a]:transition-colors [&_a.active]:font-medium [&_li]:my-1.5 [&_nav>ul]:pl-0 [&_ul]:list-none [&_ul]:pl-4"
+        
+        <div
+          id="toc-side-dropdown"
+          class="bg-card border-border scrollbar-hide pointer-events-none absolute top-0 right-0 max-h-[80vh] w-64 translate-x-8 overflow-y-auto rounded-l-xl border-y border-l p-4 opacity-0 shadow-xl transition-all duration-300 md:w-80 [&.is-open]:pointer-events-auto [&.is-open]:translate-x-0 [&.is-open]:opacity-100"
+        >
+          <div class="text-foreground mb-3 flex items-center justify-between text-sm font-bold">
+            <span>Table of contents</span>
+            <button
+              id="toc-side-close"
+              class="text-muted-foreground hover:text-foreground hidden rounded p-1 [&.is-touch]:block"
             >
-              <nav id="TableOfContents">
+              <svg class="h-3 w-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+</svg>
+
+            </button>
+          </div>
+          <div
+            id="toc-side-content"
+            class="[&_a]:text-muted-foreground [&_a:hover]:bg-primary/10 [&_a:hover]:text-primary [&_a.active]:bg-primary/10 [&_a.active]:text-primary text-sm [&_a]:block [&_a]:rounded-md [&_a]:px-2 [&_a]:py-1 [&_a]:wrap-break-word [&_a]:whitespace-normal [&_a]:transition-colors [&_a.active]:font-medium [&_li]:my-1.5 [&_nav>ul]:pl-0 [&_ul]:list-none [&_ul]:pl-4"
+          >
+            <nav id="TableOfContents">
   <ul>
     <li>
       <ul>
@@ -1827,7 +1838,6 @@ adb shell dumpsys package com.example.etc | grep -i activity</div>
     </li>
   </ul>
 </nav>
-            </div>
           </div>
         </div>
       </div></aside>

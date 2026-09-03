@@ -3,10 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://0xrahuexec.github.io/tags/backdoor/</loc>
-    <lastmod>2026-07-06T17:30:00+08:00</lastmod>
+    <lastmod>2026-08-06T13:30:00+08:00</lastmod>
   </url><url>
     <loc>https://0xrahuexec.github.io/categories/</loc>
-    <lastmod>2026-07-06T17:30:00+08:00</lastmod>
+    <lastmod>2026-08-06T13:30:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kh-KH"
@@ -18,49 +18,8 @@
                 href="https://0xrahuexec.github.io/categories/"
                 />
   </url><url>
-    <loc>https://0xrahuexec.github.io/tags/ngrok/</loc>
-    <lastmod>2026-07-06T17:30:00+08:00</lastmod>
-  </url><url>
-    <loc>https://0xrahuexec.github.io/posts/</loc>
-    <lastmod>2026-07-06T17:30:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="kh-KH"
-                href="https://0xrahuexec.github.io/kh/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://0xrahuexec.github.io/posts/"
-                />
-  </url><url>
-    <loc>https://0xrahuexec.github.io/tags/reverse-shell/</loc>
-    <lastmod>2026-07-06T17:30:00+08:00</lastmod>
-  </url><url>
-    <loc>https://0xrahuexec.github.io/tags/</loc>
-    <lastmod>2026-07-06T17:30:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="kh-KH"
-                href="https://0xrahuexec.github.io/kh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://0xrahuexec.github.io/tags/"
-                />
-  </url><url>
-    <loc>https://0xrahuexec.github.io/categories/websec/</loc>
-    <lastmod>2026-07-06T17:30:00+08:00</lastmod>
-  </url><url>
-    <loc>https://0xrahuexec.github.io/tags/xss/</loc>
-    <lastmod>2026-07-06T17:30:00+08:00</lastmod>
-  </url><url>
-    <loc>https://0xrahuexec.github.io/posts/xss-reverse-shell-with-ngrok/</loc>
-    <lastmod>2026-07-06T17:30:00+08:00</lastmod>
-  </url><url>
     <loc>https://0xrahuexec.github.io/categories/malware-development/</loc>
-    <lastmod>2026-07-06T13:30:00+08:00</lastmod>
+    <lastmod>2026-08-06T13:30:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kh-KH"
@@ -73,7 +32,7 @@
                 />
   </url><url>
     <loc>https://0xrahuexec.github.io/tags/payload/</loc>
-    <lastmod>2026-07-06T13:30:00+08:00</lastmod>
+    <lastmod>2026-08-06T13:30:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kh-KH"
@@ -85,11 +44,52 @@
                 href="https://0xrahuexec.github.io/tags/payload/"
                 />
   </url><url>
+    <loc>https://0xrahuexec.github.io/posts/</loc>
+    <lastmod>2026-08-06T13:30:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="kh-KH"
+                href="https://0xrahuexec.github.io/kh/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://0xrahuexec.github.io/posts/"
+                />
+  </url><url>
     <loc>https://0xrahuexec.github.io/tags/powershell/</loc>
-    <lastmod>2026-07-06T13:30:00+08:00</lastmod>
+    <lastmod>2026-08-06T13:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://0xrahuexec.github.io/tags/</loc>
+    <lastmod>2026-08-06T13:30:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="kh-KH"
+                href="https://0xrahuexec.github.io/kh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://0xrahuexec.github.io/tags/"
+                />
   </url><url>
     <loc>https://0xrahuexec.github.io/posts/various-way-to-deliverable-malware/</loc>
-    <lastmod>2026-07-06T13:30:00+08:00</lastmod>
+    <lastmod>2026-08-06T13:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://0xrahuexec.github.io/tags/ngrok/</loc>
+    <lastmod>2026-07-06T17:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://0xrahuexec.github.io/tags/reverse-shell/</loc>
+    <lastmod>2026-07-06T17:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://0xrahuexec.github.io/categories/websec/</loc>
+    <lastmod>2026-07-06T17:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://0xrahuexec.github.io/tags/xss/</loc>
+    <lastmod>2026-07-06T17:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://0xrahuexec.github.io/posts/xss-reverse-shell-with-ngrok/</loc>
+    <lastmod>2026-07-06T17:30:00+08:00</lastmod>
   </url><url>
     <loc>https://0xrahuexec.github.io/tags/gdorking/</loc>
     <lastmod>2026-04-14T13:30:00+08:00</lastmod>

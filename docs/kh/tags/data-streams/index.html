@@ -1204,7 +1204,7 @@
 <div
   id="dock"
   class="pointer-events-none fixed bottom-4 left-1/2 z-9999 w-fit -translate-x-1/2 translate-y-24 opacity-0 transition-all duration-300 ease-out sm:right-0 sm:left-0 sm:mx-auto sm:translate-x-0"
-  data-dock-mode="scroll"
+  data-dock-mode="float"
   role="toolbar"
   aria-label="Quick actions toolbar"
 >
@@ -1270,6 +1270,22 @@
 </div>
 
 
+
+  <div
+    id="dock-float-trigger"
+    class="pointer-events-auto fixed right-0 bottom-0 left-0 z-9998 cursor-pointer"
+  >
+    <div
+      class="from-muted-foreground/20 absolute inset-0 h-8 bg-linear-to-t to-transparent transition-all duration-200 ease-out"
+    ></div>
+
+    
+    <div class="relative mx-auto flex h-8 w-12 items-center justify-center">
+      <span id="dock-float-icon">
+        <svg class="h-3 w-3" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6l-6 6z"/></svg>
+      </span>
+    </div>
+  </div>
 
 
       

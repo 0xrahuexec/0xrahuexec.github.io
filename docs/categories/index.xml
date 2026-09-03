@@ -6,20 +6,20 @@
     <description>Recent content in Categories on 0xRahu</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jul 2026 17:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 13:30:00 +0800</lastBuildDate>
     <atom:link href="https://0xrahuexec.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Malware Development</title>
+      <link>https://0xrahuexec.github.io/categories/malware-development/</link>
+      <pubDate>Thu, 06 Aug 2026 13:30:00 +0800</pubDate>
+      <guid>https://0xrahuexec.github.io/categories/malware-development/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Websec</title>
       <link>https://0xrahuexec.github.io/categories/websec/</link>
       <pubDate>Mon, 06 Jul 2026 17:30:00 +0800</pubDate>
       <guid>https://0xrahuexec.github.io/categories/websec/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Malware Development</title>
-      <link>https://0xrahuexec.github.io/categories/malware-development/</link>
-      <pubDate>Mon, 06 Jul 2026 13:30:00 +0800</pubDate>
-      <guid>https://0xrahuexec.github.io/categories/malware-development/</guid>
       <description></description>
     </item>
     <item>
